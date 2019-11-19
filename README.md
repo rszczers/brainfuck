@@ -13,6 +13,6 @@ stack exec bf [file]
 ## Example
 
 ```
-> stack bf ./examples/helloworld.bf
+> stack exec bf ./examples/helloworld.bf
 > Hello World!
 ```
